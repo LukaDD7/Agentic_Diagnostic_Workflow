@@ -1,0 +1,60 @@
+
+Epoch 1
+Train Loss: 1.3765
+Accuracy: 0.4542
+Micro F1: 0.4542 | Macro F1: 0.2970
+Accuracy for appendicitis: 0.5604
+Accuracy for cholecystitis: 0.7021
+Accuracy for pancreatitis: 0.7521
+Accuracy for diverticulitis: 0.8938
+                precision    recall  f1-score   support
+
+  appendicitis     0.4701    0.8220    0.5981       191
+ cholecystitis     0.3143    0.0846    0.1333       130
+  pancreatitis     0.4505    0.4630    0.4566       108
+diverticulitis     0.0000    0.0000    0.0000        51
+
+      accuracy                         0.4542       480
+     macro avg     0.3087    0.3424    0.2970       480
+  weighted avg     0.3735    0.4542    0.3768       480
+
+
+Epoch 2
+Train Loss: 1.1714
+Accuracy: 0.5938
+Micro F1: 0.5938 | Macro F1: 0.5360
+Accuracy for appendicitis: 0.7854
+Accuracy for cholecystitis: 0.7812
+Accuracy for pancreatitis: 0.8063
+Accuracy for diverticulitis: 0.8146
+                precision    recall  f1-score   support
+
+  appendicitis     0.7750    0.6492    0.7066       191
+ cholecystitis     0.6263    0.4769    0.5415       130
+  pancreatitis     0.5490    0.7778    0.6437       108
+diverticulitis     0.2206    0.2941    0.2521        51
+
+      accuracy                         0.5938       480
+     macro avg     0.5427    0.5495    0.5360       480
+  weighted avg     0.6250    0.5938    0.5994       480
+
+
+Epoch 3
+Train Loss: 1.0182
+Accuracy: 0.6250
+Micro F1: 0.6250 | Macro F1: 0.5715
+Accuracy for appendicitis: 0.8083
+Accuracy for cholecystitis: 0.8000
+Accuracy for pancreatitis: 0.8187
+Accuracy for diverticulitis: 0.8229
+                precision    recall  f1-score   support
+
+  appendicitis     0.7797    0.7225    0.7500       191
+ cholecystitis     0.6466    0.5769    0.6098       130
+  pancreatitis     0.5929    0.6204    0.6063       108
+diverticulitis     0.2703    0.3922    0.3200        51
+
+      accuracy                         0.6250       480
+     macro avg     0.5724    0.5780    0.5715       480
+  weighted avg     0.6475    0.6250    0.6340       480
+

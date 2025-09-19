@@ -1,0 +1,60 @@
+
+Epoch 1
+Train Loss: 1.3867
+Accuracy: 0.2500
+Micro F1: 0.2500 | Macro F1: 0.1599
+Accuracy for appendicitis: 0.6875
+Accuracy for cholecystitis: 0.4000
+Accuracy for pancreatitis: 0.7125
+Accuracy for diverticulitis: 0.7000
+                precision    recall  f1-score   support
+
+  appendicitis     0.0000    0.0000    0.0000        20
+ cholecystitis     0.2742    0.8500    0.4146        20
+  pancreatitis     0.2857    0.1000    0.1481        20
+diverticulitis     0.1667    0.0500    0.0769        20
+
+      accuracy                         0.2500        80
+     macro avg     0.1816    0.2500    0.1599        80
+  weighted avg     0.1816    0.2500    0.1599        80
+
+
+Epoch 2
+Train Loss: 0.7818
+Accuracy: 0.8625
+Micro F1: 0.8625 | Macro F1: 0.8622
+Accuracy for appendicitis: 0.9875
+Accuracy for cholecystitis: 0.8750
+Accuracy for pancreatitis: 0.8750
+Accuracy for diverticulitis: 0.9875
+                precision    recall  f1-score   support
+
+  appendicitis     0.9524    1.0000    0.9756        20
+ cholecystitis     0.7778    0.7000    0.7368        20
+  pancreatitis     0.7273    0.8000    0.7619        20
+diverticulitis     1.0000    0.9500    0.9744        20
+
+      accuracy                         0.8625        80
+     macro avg     0.8644    0.8625    0.8622        80
+  weighted avg     0.8644    0.8625    0.8622        80
+
+
+Epoch 3
+Train Loss: 0.4126
+Accuracy: 0.8750
+Micro F1: 0.8750 | Macro F1: 0.8749
+Accuracy for appendicitis: 0.9875
+Accuracy for cholecystitis: 0.8875
+Accuracy for pancreatitis: 0.8875
+Accuracy for diverticulitis: 0.9875
+                precision    recall  f1-score   support
+
+  appendicitis     0.9524    1.0000    0.9756        20
+ cholecystitis     0.7895    0.7500    0.7692        20
+  pancreatitis     0.7619    0.8000    0.7805        20
+diverticulitis     1.0000    0.9500    0.9744        20
+
+      accuracy                         0.8750        80
+     macro avg     0.8759    0.8750    0.8749        80
+  weighted avg     0.8759    0.8750    0.8749        80
+

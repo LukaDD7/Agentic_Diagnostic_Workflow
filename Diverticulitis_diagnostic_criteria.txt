@@ -1,0 +1,56 @@
+Diverticulitis is the inflammation or infection of diverticula, most commonly in the sigmoid colon. 
+
+### 1. **Diagnostic Criteria for Diverticulitis**: 
+{  
+  "Diagnostic Criteria": [  
+    {  
+      "Category": "Clinical Symptoms",  
+      "Items": [  
+        "Persistent left or right lower quadrant pain (left-sided predominance in Western populations, right-sided more common in Asia)",  
+        "Fever (body temperature >38°C)",  
+        "Altered bowel habits (constipation or diarrhea)",  
+        "Abdominal distension or localized tenderness"  
+      ],  
+      "Threshold": "At least 2 items (pain + fever/bowel changes required)"  
+    },  
+    {  
+      "Category": "Laboratory Tests",  
+      "Items": [  
+        "Leukocytosis (WBC >10×10⁹/L)",  
+        "Elevated CRP (>50 mg/L)",  
+        "Elevated procalcitonin (PCT, suggests bacterial infection)"  
+      ],  
+      "Threshold": "At least 1 item (WBC or CRP mandatory)"  
+    },  
+    {  
+      "Category": "Imaging Evidence",  
+      "Items": [  
+        "CT scan: Colonic diverticula with pericolonic fat stranding ('dirty fat sign')",  
+        "CT/MRI: Colonic wall thickening (>4 mm)",  
+        "Ultrasound (limited use): Localized bowel wall thickening or abscess",  
+        "Abscess or perforation signs (air-fluid levels, free gas)"  
+      ],  
+      "Threshold": "At least 1 item (CT is gold standard)"  
+    }  
+  ],  
+  "Diagnosis Threshold": "Clinical symptoms + Laboratory abnormalities + Imaging evidence → Confirmed diagnosis"  
+}  
+
+### 2. **Core Imaging Findings (Typical Findings)**
+- Bowel wall thickening: Especially in the sigmoid colon; typically >4 mm in thickness
+- Presence of diverticula: Small outpouchings of the colonic wall, often multiple
+- Pericolic fat stranding: Increased density or haziness of the surrounding fat indicating inflammation
+- Pericolic gas or fluid： Suggests localized perforation or inflammatory exudate
+- Pericolic abscess: A low-attenuation collection with enhancing rim, indicating abscess formation
+
+### 3. **Findings Suggesting Complications**
+- Perforation: Free intraperitoneal air or extraluminal gas bubbles; sigmoid perforation
+- Peritonitis: Diffuse ascites, bowel wall thickening, peritoneal enhancement or thickening
+- Bowel obstruction: Dilated bowel loops, air-fluid levels
+- Fistula formation
+- Pseudotumoral presentation
+
+### 4. **Tips**:
+- Colonic diverticula are rare in individuals younger than 30 years of age but rise in incidence sharply thereafter; their prevalence approaches 50% in Western adult populations older than 60 years of age. Diverticula are generally multiple, a condition referred to as diverticulosis.
+- About 20% of those affected develop symptoms, including intermittent cramping, continuous lower abdominal discomfort, constipation, and diarrhea
+- Other diagnoses to consider when patients present with suspected diverticulitis may include constipation, irritable bowel syndrome, appendicitis, IBD, neoplasia, kidney stones, urinary tract infection, bowel obstruction, and gynecologic disorders.

@@ -1,0 +1,111 @@
+### 1. **History of Present Illness**
+- periumbilical pain that then moves to the right lower quadrant, followed by nausea, vomiting, low-grade fever
+- **Abdominal Pain**: Typically presents as migratory right lower quadrant (RLQ) pain, starting in the epigastrium or periumbilical region and later shifting to the RLQ.
+
+### 2. **Physical Examination**
+- **Specific Sign**: McBurney sign, deep tenderness noted at a location two-thirds of the distance from the umbilicus to the right anterior superior iliac spine (McBurney point).
+- **Tenderness**: Tenderness at McBurney's point in the RLQ.
+- **Rebound Tenderness**: Rebound tenderness in the RLQ (Blumberg's sign).
+- **Muscle Guarding**: Muscle rigidity in the RLQ.
+
+### 3. **Laboratory Tests**
+- **White Blood Cell (WBC) Count**: elevated
+- **C-Reactive Protein (CRP)**: elevated.
+
+### 4. **Imaging Investigation**
+Signs suggestive of appendix inflammation: 
+- enlarged appendix, thickened wall, gas or periappendiceal fluid collection, Dilated appendix,
+- periappendiceal fat stranding, appendicolith(fecalith)
+- appendiceal rupture, appendiceal wall hyperemic, fat stranding
+- Cecal Bar/Wall Thickening
+- Intraluminal fluid or gas
+- Findings suggesting complications: Periappendiceal abscess/fluid/ascites, 
+  Appendiceal perforation,Phlegmon, Bowel obstruction,Fistula formation
+
+### [1-4]: "Diagnosis Threshold": "Clinical symptoms + Physical examination + Laboratory tests + Imaging evidence → Confirmed diagnosis"
+
+### 5. **Clinical Scoring Systems**
+- AIR Score (Appendicitis Inflammatory Response Score):
+{  
+  "Score Components": [  
+    {  
+      "Parameter": "Vomiting",  
+      "Value": "Present",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Pain in RLQ",  
+      "Value": "Present",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Rebound tenderness",  
+      "Value": "Present",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "WBC count (×10⁹/L)",  
+      "Value": ["10–14.9 → 1", "≥15 → 2"],  
+      "Points": "1 or 2"  
+    },  
+    {  
+      "Parameter": "Neutrophil %",  
+      "Value": ["70–84% → 1", "≥85% → 2"],  
+      "Points": "1 or 2"  
+    },  
+    {  
+      "Parameter": "CRP (mg/L)",  
+      "Value": ["10–49 → 1", "≥50 → 2"],  
+      "Points": "1 or 2"  
+    }  
+  ],  
+  "Interpretation": {  
+    "Low Risk (0-4)": "Low probability of appendicitis (negative predictive value > 95%)",  
+    "Intermediate (5-8)": "Need imaging confirmation (CT preferred)",  
+    "High Risk (9-12)": "Surgical intervention is recommended"  
+  }  
+}
+
+- AAS Score (Adult Appendicitis Score): 
+{  
+  "Score Components": [  
+    {  
+      "Parameter": "Male gender",  
+      "Value": "Yes",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Migration of pain",  
+      "Value": "Yes",  
+      "Points": 2  
+    },  
+    {  
+      "Parameter": "RLQ tenderness",  
+      "Value": "Yes",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Rebound tenderness",  
+      "Value": "Yes",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Elevated WBC (>10×10⁹/L)",  
+      "Value": "Yes",  
+      "Points": 1  
+    },  
+    {  
+      "Parameter": "Elevated CRP (>10 mg/L)",  
+      "Value": "Yes",  
+      "Points": 1  
+    }  
+  ],  
+  "Interpretation": {  
+    "Low Risk (0-2)": "Appendicitis is less likely",  
+    "Intermediate (3-4)": "Further evaluation is needed",  
+    "High Risk (5-7)": "Highly suggestive of appendicitis"  
+  }  
+}
+
+### Tips
+- CRP level on admission ≥ 10 mg/L and leucocytosis ≥ 16,000/mL are strong predictive factors for appendicitis in pediatric patients.

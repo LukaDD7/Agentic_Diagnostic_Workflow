@@ -1,0 +1,101 @@
+### 1. Diagnostic Criteria for Cholecystitis (ACG Guidelines 2023)
+
+Diagnosis based on clinical, laboratory, and imaging findings:
+
+- **Clinical History**:
+  - Required: RUQ pain lasting >6 hours
+  - Supportive: Nausea/vomiting, Fever (>38°C), History of gallstones
+
+- **Physical Exam**:
+  - Key Signs: Murphy's sign positive, RUQ tenderness or guarding
+  - Optional: Palpable gallbladder mass
+
+- **Laboratory Tests**:
+  - Essential: WBC >10×10⁹/L, CRP >10 mg/L
+  - Ancillary: Elevated AST/ALT (if choledocholithiasis suspected)
+
+- **Imaging Criteria**:
+  - **Ultrasound**: GB wall thickening >4 mm, pericholecystic fluid, sonographic Murphy’s sign
+  - **CT**:
+    - GB wall thickening >3 mm with hyperenhancement
+    - Pericholecystic fat stranding (“dirty fat” sign)
+    - GB distension (transverse >4 cm)
+    - Intramural gas (emphysematous cholecystitis)
+    - GB wall discontinuity, abscess (perforation)
+  - **MRI**:
+    - GB wall thickening >3 mm with high T2 signal
+    - Pericholecystic fluid (high T2 signal)
+    - Gallstones (signal voids on T2/T1)
+    - Restricted diffusion in GB wall (DWI hyperintensity)
+  - **HIDA Scan**:
+    - Non-visualization of GB at 4h
+    - Ejection fraction (EF) <35% after CCK stimulation
+
+- **Diagnostic Thresholds**:
+  - Definite Diagnosis: Clinical + Imaging confirmation
+  - Probable Diagnosis: Clinical + Labs + Partial imaging findings
+
+---
+
+### 2. Diagnostic Criteria for Cholecystitis (Tokyo Guidelines 2018)
+
+Diagnosis requires one item from each category:
+
+- **Local Signs of Inflammation** (≥1):
+  - RUQ tenderness (Murphy’s sign positive)
+  - RUQ mass or muscle guarding
+
+- **Systemic Inflammation** (≥1):
+  - Fever >38°C
+  - WBC >12×10⁹/L
+  - CRP ≥10 mg/L
+
+- **Imaging Findings** (≥1):
+  - GB wall thickening (>4 mm) or edema
+  - Enlarged GB (long >8 cm, short >4 cm)
+  - Pericholecystic fluid or abscess
+  - Ultrasound Murphy’s sign positive
+
+- **Diagnosis Threshold**:
+  - Local inflammation + Systemic inflammation + Imaging evidence → Confirmed diagnosis
+
+---
+
+### 3. Core Imaging Findings in Cholecystitis
+- Gallbladder wall thickening or edema
+- Gallbladder distention
+- Gallstones or sludge
+- Pericholecystic fluid
+- Sonographic Murphy’s sign
+- Hyperemia of GB wall
+- Gas in GB wall or lumen (emphysematous cholecystitis)
+- Pericholecystic fat stranding
+- Biliary duct dilatation
+
+---
+
+### 4. Findings Suggesting Complications (with or without pancreatitis)
+- Gallbladder perforation
+- Pericholecystic abscess
+- Biliary peritonitis
+
+---
+
+### 5. Key Clinical Features for Diagnosing Acute Calculous Cholecystitis (ACC)
+- **History & Exam**: RUQ pain/tenderness, fever, vomiting or food intolerance, Murphy’s sign
+- **Lab Tests**: Elevated CRP, elevated WBC
+- **Imaging**: Signs of gallbladder inflammation
+
+---
+
+### 6. Cholecystitis vs. Biliary Pancreatitis (Comparison Summary)
+
+| Feature                  | Cholecystitis                          | Biliary Pancreatitis                     |
+|--------------------------|----------------------------------------|------------------------------------------|
+| Primary Site             | Gallbladder                            | Pancreas                                 |
+| Imaging                  | GB wall thickening, pericholecystic fluid/fat, stones/sludge | Pancreatic swelling, peripancreatic fluid, ductal dilation |
+| CBD Dilation             | May occur (secondary inflammation)     | Often >6 mm (obstructing stone)          |
+| Pancreatic Involvement   | Usually normal                         | Often abnormal (edema, necrosis)         |
+| Labs                     | ↑WBC, ↑CRP, mild ↑LFTs                 | ↑Amylase/Lipase, ↑ALT/AST                |
+| Clinical Presentation    | RUQ pain, Murphy's sign positive, fever| Epigastric pain radiating to back, nausea|
+

@@ -1,0 +1,67 @@
+### 1. Diagnostic Criteria for Acute Pancreatitis  
+Diagnosis requires **at least two of the following three categories**:
+
+1. Clinical Symptoms (at least one):
+   - Acute onset of persistent epigastric pain (often radiating to the back)
+   - Abdominal tenderness (epigastric or diffuse)
+
+2. Laboratory Evidence (at least one):
+   - Serum amylase > 3× upper limit of normal (ULN)
+   - Serum lipase > 3× ULN (lipase is more specific)
+
+3. Imaging Evidence (at least one; CT/MRI preferred):
+   - CT or MRI showing pancreatic edema, necrosis, or peripancreatic fluid
+   - Ultrasound showing pancreatic swelling ± peripancreatic fluid
+
+---
+
+### 2. Typical Imaging Findings in Acute Pancreatitis
+- Pancreatic enlargement
+- Hypoechoic or hypoattenuating pancreas
+- Peripancreatic fat stranding
+- Pericholecystic fluid collection
+- Gallstones, sludge, or calcified gallstones
+- Dilated bile ducts
+- Gallbladder distention
+- Gallbladder wall edema or thickening
+- Absence of normal pancreatic parenchyma
+- Pancreatic ductal dilation
+
+---
+
+### 3. Cholecystitis vs. Biliary Pancreatitis
+Primary Lesion Site:
+- Cholecystitis: Gallbladder
+- Biliary Pancreatitis: Pancreas
+
+Imaging Features:
+- Cholecystitis: Gallbladder wall thickening, pericholecystic fat stranding/fluid, gallstones or sludge
+- Biliary Pancreatitis: Pancreatic enlargement, peripancreatic fat stranding or fluid, pancreatic duct dilation, stone in the very distal common bile duct, small gallstones within gallbladder
+
+Common Bile Duct (CBD) Dilation:
+- Cholecystitis: May occur due to secondary inflammation
+- Biliary Pancreatitis: Often >6 mm, suggests obstructing stone
+
+Pancreatic Involvement:
+- Cholecystitis: Pancreas usually normal
+- Biliary Pancreatitis: Pancreatic edema, possible necrosis or pseudocyst
+
+Biochemical Clues:
+- Cholecystitis: Elevated WBC, CRP; liver enzymes normal or mildly increased
+- Biliary Pancreatitis: Elevated amylase/lipase; ALT/AST may be elevated
+
+Clinical Presentation:
+- Cholecystitis: RUQ pain, positive Murphy's sign, possible fever
+- Biliary Pancreatitis: Epigastric pain radiating to back, nausea/vomiting, Murphy's sign usually negative
+
+---
+
+### 4. Clinical Tips
+- Amylase/lipase ≥ 3× ULN is the diagnostic cutoff
+- CRP ≥ 150 mg/L on day 3 predicts severe acute pancreatitis
+- Hematocrit > 44% is a risk factor for pancreatic necrosis
+- Urea > 20 mg/dL predicts higher mortality
+- Procalcitonin is sensitive for pancreatic infection; low values are strong negative predictors
+- In absence of gallstones or alcohol history, evaluate:
+   - Serum triglycerides > 11.3 mmol/L (1000 mg/dL): suggests hypertriglyceridemia-induced AP
+   - Serum calcium: hypercalcemia may be the cause

@@ -1,0 +1,41 @@
+# Python 虚拟环境
+# Common names for virtual environments
+venv/
+env/
+.venv/
+.env/
+*_env/
+
+# Python 编译文件和缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 日志文件和数据文件
+# Be careful with this, add specific patterns for your project
+*.log
+*.csv
+*.pt
+*.pth
+*.h5
+/data/
+/logs/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# 包管理
+dist/
+build/
+*.egg-info/

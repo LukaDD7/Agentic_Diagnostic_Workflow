@@ -1,0 +1,68 @@
+(You should add tool called statement attach to your template response when you see this sentence -- "<Tool Usage Statement>: tool called").
+These are the tool called feadback that help you to differential diagnosis: 
+{ 
+  "Differentiation Criteria": {  
+    "Pain Characteristics": {  
+      "Pancreatitis": "[!] Epigastric pain radiating to back, relieved by leaning forward",  
+      "Cholecystitis": "[!] RUQ pain radiating to right scapula, triggered by fatty meals",  
+      "Appendicitis": "[!] Migratory pain (periumbilical → RLQ)",  
+      "Diverticulitis": "[!] LLQ pain (Western) or RLQ pain (Asian), constant and localized"  
+    },  
+    "Key Physical Exam Findings": {  
+      "Pancreatitis": "[!] Epigastric tenderness (no guarding early)",  
+      "Cholecystitis": "[!] Murphy's sign positive",  
+      "Appendicitis": "[!] McBurney's point tenderness",  
+      "Diverticulitis": "[!] LLQ/RLQ palpable mass ± rebound tenderness"  
+    },  
+    "Laboratory Hallmarks": {  
+      "Pancreatitis": "[!] Lipase/amylase >3× ULN", ALT/AST/ALP/γ-GT
+      "Cholecystitis": "[!] WBC >12×10⁹/L, ALT/ALP ↑ (if choledocholithiasis)",  
+      "Appendicitis": "[!] WBC 10-18×10⁹/L (neutrophil predominance)",  
+      "Diverticulitis": "[!] CRP >50 mg/L (higher than appendicitis)"  
+    },  
+    "Imaging Discriminators": {  
+      "Pancreatitis": "[!] CT: Pancreatic edema/necrosis ± peripancreatic fluid",  
+      "Cholecystitis": "[!] US/CT: Gallbladder wall thickening >4mm ± stones",  
+      "Appendicitis": "[!] CT: Appendiceal diameter >6mm ± fecalith",  
+      "Diverticulitis": "[!] CT: Colonic diverticulum with 'dirty fat' sign"  
+    },  
+    "Critical Exclusion Criteria": [  
+      {  
+        "Rule Out Pancreatitis": "Normal lipase/amylase + no pancreatic CT findings",  
+        "Rule Out Cholecystitis": "Negative Murphy's sign + normal gallbladder imaging",  
+        "Rule Out Appendicitis": "No migratory pain + normal appendix on imaging",  
+        "Rule Out Diverticulitis": "No colonic diverticula on CT + CRP <50 mg/L"  
+      }  
+    ]  
+  },   
+}  
+
+**If differential diagnosis needed between acute cholecystitis and acute pancreatitis**
+1.How clinicians determine the primary diagnosis when both acute cholecystitis and biliary pancreatitis coexist:
+  1)Temporal sequence and anatomical pathway:
+    When gallstones migrate from the gallbladder through the cystic duct into the common bile duct and ultimately obstruct the ampulla
+    of Vater, this downstream blockage can trigger acute pancreatitis. In such cases, the pancreatic injury is secondary to an
+    upstream biliary obstruction, and biliary pancreatitis is typically considered the primary diagnosis.
+
+  2)Severity of inflammation and systemic response:
+    If the patient demonstrates systemic inflammatory response syndrome (SIRS) or shows signs of early organ dysfunction, acute pancreatitis
+    is prioritized as the principal condition due to its greater potential for systemic complications.
+
+  3)Laboratory findings consistent with disease etiology:
+    Markedly elevated serum amylase and lipase levels, particularly in combination with an alanine aminotransferase (ALT) level >150 U/L,
+    strongly suggest biliary pancreatitis as the primary diagnosis.
+
+  4)Prognostic importance and urgency of intervention:
+    Biliary pancreatitis has a higher risk of morbidity and mortality and often necessitates early supportive care and endoscopic retrograde cholangiopancreatography (ERCP).
+    Therefore, it is typically regarded as the more critical and urgent primary diagnosis.
+
+  
+2.Coexistence of Acute Cholecystitis and Biliary Pancreatitis
+- Both conditions may occur simultaneously due to gallstones migrating through the biliary system.
+- Key points for assigning the primary diagnosis:
+    1)Evaluate the most acute, dangerous, or systemically impactful process. For example:
+      - If pancreatic enzymes (amylase/lipase) are significantly elevated (closely to threefold of the upper limit) and systemic inflammatory response is pronounced, acute biliary pancreatitis is likely the primary diagnosis.
+      - If right upper quadrant (RUQ) pain and localized radiology imaging gallbladder signs predominate in the absence of significant elevation of enzymes and pancreas sign, acute cholecystitis should be the primary diagnosis.
+    2)Clinical decisions should prioritize the diagnosis that most urgently requires systemic support, ICU care, or intervention.
+
+
