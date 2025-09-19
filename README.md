@@ -15,7 +15,8 @@ To run the code, you need:
 ## Main Components
 
 ### Agentic Diagnostic Workflow (ADW)
-- The main implementation of ADW is in **`AGAP/auto_diagnosis.py`**.  
+- The main implementation of ADW is in **`AGAP/auto_diagnosis.py`**.
+- **`subset_ids_1.csv`**  is one of the sampled case id subset for reproducing the experiment easier.
 - At **lines 699–700**, the workflow is initialized and executed:  
   ```python
   graph = AgentGraph(nodes=nodes, edges=edges, prompt_mode='strict')
@@ -27,12 +28,13 @@ To run the code, you need:
   - `'own'`  
 
 ### Full Dataset Execution
-- **`AGAP_own_full_dataset.py`**: Runs ADW on the full dataset with the specified settings.  
+- **`AGAP_own_full_dataset.py`**: Runs ADW on the full dataset with the specified settings.
+- **`prompts.py`**: All the LLM method prompts are here.
 
 ### Baseline Comparisons
 - **`diagnosis_with_full_information.py`**: Runs Chain-of-Thought (CoT) and Vanilla Prompting baselines.  
 
-### Long Document Classifiers
+### Deep Learning Baselines
 - **`lm_classification/`**: Contains code for **Clinical Longformer** and **Longformer** baselines.  
 - **`data_processing.ipynb`**: Handles preprocessing of the dataset for classification models.  
 
