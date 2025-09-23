@@ -6,10 +6,9 @@ This repository contains the code accompanying the paper:
 ---
 
 ## Requirements
-To run the code, you need:  
-1. [Insert your first requirement from *Code Availability* here]  
-2. [Insert your second requirement from *Code Availability* here]  
-
+The code is released under an open-source license and enables full replication of our analyses once access to the MIMIC-IV-CDM dataset has been obtained. To reproduce the experiments, two requirements must be fulfilled: 
+  1.Dataset access: Users must obtain independent access to the MIMIC-IV-CDM dataset via PhysioNet, in compliance with the data use agreement. 
+  2.Cloud service configuration: Some components of our workflow require connecting to a private cloud service API in order to enable large language model (LLM) interaction with the MIMIC-IV-CDM dataset. This API service must adhere to the PhysioNet data use policy, including disabling any content retention, logging, or review functions that would result in secondary storage or inspection of protected data.
 ---
 
 ## Main Components
@@ -38,12 +37,16 @@ To run the code, you need:
 - **`lm_classification/`**: Contains code for **Clinical Longformer** and **Longformer** baselines.  
 - **`data_processing.ipynb`**: Handles preprocessing of the dataset for classification models.  
 
+### Human-in-the-Loop Experiment
+- First, set up the data in path: /Human_Examination/data, detailed see file: streamlit_app.spec(or streamlit_wo_ADW_app.spec).
+- Second, install the application with env ins_human_interface: pyinstaller streamlit_app.spec
+
 ---
 
 ## Citation
 If you use this code, please cite our paper:  
 ```
-@article{your_paper,
+@article{,
   title={Structuring Large Language Models as Agentic Workflows Improves Diagnostic Performance and Physician Assistance},
   author={...},
   journal={...},
